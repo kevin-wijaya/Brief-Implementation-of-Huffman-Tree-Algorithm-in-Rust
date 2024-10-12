@@ -55,7 +55,7 @@ To use this terminal application:
 
 ## Testing <a name = "testing"></a>
 
-this is the look for testing:
+This is an example of the program running:
 ```sh
 $ cargo run # run the application
 
