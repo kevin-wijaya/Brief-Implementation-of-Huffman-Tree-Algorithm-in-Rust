@@ -1,5 +1,5 @@
 [package]
-name = "brief-implementation-of-huffman-tree-algorithm-in-rust"
+name = "implementation-of-huffman-tree-algorithm-in-rust"
 version = "0.1.0"
 edition = "2021"
 
